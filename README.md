@@ -3,12 +3,6 @@
 
 A landing page 
 
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
 ## task 1
 
 Landing page 
