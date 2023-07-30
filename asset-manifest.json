@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CodeClause_landing_page/static/css/main.678a9f29.css",
-    "main.js": "/CodeClause_landing_page/static/js/main.672df513.js",
+    "main.js": "/CodeClause_landing_page/static/js/main.e744c1a9.js",
     "static/media/sectionBG.png": "/CodeClause_landing_page/static/media/sectionBG.333b29770dd327638f53.png",
     "index.html": "/CodeClause_landing_page/index.html",
     "main.678a9f29.css.map": "/CodeClause_landing_page/static/css/main.678a9f29.css.map",
-    "main.672df513.js.map": "/CodeClause_landing_page/static/js/main.672df513.js.map"
+    "main.e744c1a9.js.map": "/CodeClause_landing_page/static/js/main.e744c1a9.js.map"
   },
   "entrypoints": [
     "static/css/main.678a9f29.css",
-    "static/js/main.672df513.js"
+    "static/js/main.e744c1a9.js"
   ]
 }
